@@ -7,3 +7,7 @@ nuxt.d.ts
 
 # Editor configurations.
 .vscode
+
+
+# Firebase Files.
+.firebase
